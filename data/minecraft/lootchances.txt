@@ -1,0 +1,29 @@
+Tool:
+  drop chances | item name
+
+
+hand:
+  1/2 oak_log
+  1/2 dirt
+
+wooden_pickaxe:
+  1/6 oak_log
+  2/6 dirt
+  3/6 cobblestone
+
+stone_pickaxe:
+  5/15 dirt
+  9/15 cobblestone
+  1/15 iron_ingot
+
+iron_pickaxe:
+  31/45 cobblestone
+  9/45 iron_ingot
+  4/45 gold_ingot
+  1/45 diamond
+
+diamond_pickaxe:
+  24/60 cobblestone
+  17/60 iron_ingot
+  11/60 gold_ingot
+  8/60 diamond
